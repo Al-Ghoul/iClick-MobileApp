@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "iClick",
+    "slug": "iClick",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
